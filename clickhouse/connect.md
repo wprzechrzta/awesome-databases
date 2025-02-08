@@ -1,0 +1,10 @@
+<config>
+    <connections_credentials>
+        <name>default</name>
+        <hostname>hostname</hostname>
+        <port>9440</port>
+        <secure>1</secure>
+        <user>default</user>
+        <password>password</password>
+    </connections_credentials>
+</config>

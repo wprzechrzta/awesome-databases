@@ -3,7 +3,8 @@ show databases;
 show tables;
 show tables in default;
 
-
+see: https://clickhouse.com/docs/en/interfaces/cli
+clickhouse-client -h localhost:9000
 
 ## Create table
 
