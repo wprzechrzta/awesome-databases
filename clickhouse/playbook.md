@@ -3,6 +3,10 @@ show databases;
 show tables;
 show tables in default;
 
+
+SHOW CREATE TABLE myFirstReplacingMT;
+show create table uk_price_paid
+
 see: https://clickhouse.com/docs/en/interfaces/cli
 clickhouse-client -h localhost:9000
 
